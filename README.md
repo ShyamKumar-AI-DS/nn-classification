@@ -188,7 +188,7 @@ print(Le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-Include screenshot of the dataset
+https://github.com/anishmj/nn-classification/raw/main/data.png
 
 ## OUTPUT
 
