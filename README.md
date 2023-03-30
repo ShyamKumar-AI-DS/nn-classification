@@ -201,12 +201,12 @@ print(Le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![o](d4.png)
+![o](d5.png)
 
 
 ### New Sample Data Prediction
 
-![o](d5.png)
+![o](d6.png)
 
 ## RESULT
 Thus, a Simple Neural Network Classification Model is developed successfully.
