@@ -186,27 +186,27 @@ print(Le.inverse_transform(x_single_prediction))
 
 ~~~
 
-## Dataset Information
-
-https://github.com/anishmj/nn-classification/raw/main/data.png
 
 ## OUTPUT
+### Dataset Information
+![o](d1.png)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![o](d2.png)
 
 ### Classification Report
 
-Include Classification Report here
+![o](d3.png)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![o](d4.png)
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![o](d5.png)
 
 ## RESULT
+Thus, a Simple Neural Network Classification Model is developed successfully.
